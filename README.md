@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mandrindra12
-- 👀 I’m interested in embedded and robotics
+- 👀 I’m interested in embedded systems and robotics
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on everything
 
