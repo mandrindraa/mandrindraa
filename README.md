@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mandrindra12
+- 👋 Hi, I’m @mandrindra
 - 👀 I’m interested in embedded systems and robotics
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on everything
