@@ -10,7 +10,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandrindraa&layout=compact&theme=radical)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mandrindraa&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mandrindraa)](https://git.io/streak-stats)
 
 
 ## Skills
