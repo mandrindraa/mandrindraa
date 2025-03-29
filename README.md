@@ -3,6 +3,7 @@
 - 👀 I’m interested in Backend Web Development and Devops
 - 🌱 I’m currently learning Computer Networking and System Administration
 - 💞️ I’m looking to collaborate on everything
+---
 <!-- GitHub Stats -->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mandrindraa&show_icons=true&theme=radical)
 
