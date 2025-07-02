@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mandrindra
-![Profile views](https://komarev.com/ghpvc/?username=mandrindraa)
+![Profile views](https://komarev.com/ghpvc/?username=yourusername)
 - 👀 I’m interested in Backend Web Development and Devops
 - 🌱 I’m currently learning Computer Networking and System Administration
 - 💞️ I’m looking to collaborate on everything
@@ -55,7 +55,7 @@
 ## 🔝 **Top Repositories**
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mandrindraa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories"/>
 </div>
 
 
