@@ -29,8 +29,6 @@
 ![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### **Network & Infrastructure**
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black)
 ![HUAWEI](https://img.shields.io/badge/HUAWEI-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-1E90FF?style=for-the-badge&logo=network&logoColor=white)
