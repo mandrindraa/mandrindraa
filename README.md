@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mandrindra
-![Profile views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile views](https://komarev.com/ghpvc/?username=mandrindraa)
 - 👀 I’m interested in Backend Web Development and Devops
 - 🌱 I’m currently learning Computer Networking and System Administration
 - 💞️ I’m looking to collaborate on everything
@@ -13,18 +13,31 @@
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mandrindraa&theme=radical)
 
-
 ## Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-61DAFB?style=flat-square&logo=angular&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Networking](https://img.shields.io/badge/-Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-61DAFB?style=for-the-badge&logo=angular&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **Network & Infrastructure**
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black)
+![HUAWEI](https://img.shields.io/badge/HUAWEI-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-1E90FF?style=for-the-badge&logo=network&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-008B8B?style=for-the-badge&logo=network&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+
 
 <!---
 mandrindra12/mandrindra12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
