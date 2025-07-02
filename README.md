@@ -36,6 +36,29 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 
+## 🏆 **Achievements**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mandrindraa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandrindraa&theme=tokyo-night&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🔝 **Top Repositories**
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mandrindraa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories"/>
+</div>
+
+
 
 <!---
 mandrindra12/mandrindra12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
